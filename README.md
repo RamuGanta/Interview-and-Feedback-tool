@@ -16,12 +16,40 @@ An interactive AI-powered interview simulator built with Streamlit and OpenAI's 
 - **Real-time AI Conversations**: Interactive chat interface with GPT-4 powered HR executive
 - **Performance Feedback**: Get scored feedback (1-10) on your interview performance after completion
 
+## 📸 Screenshots
+
+### Setup Interface
+![Setup Page](screenshots/setup.png)
+*Customize your interview experience with personal information and job preferences*
+
+### Interactive Interview
+![Interview Chat](screenshots/interview.png)
+*Real-time AI-powered conversation with GPT-4 HR executive*
+
+### Performance Feedback
+![Feedback Results](screenshots/feedback.png)
+*Detailed performance analysis with scoring and actionable suggestions*
+
 ## Demo
 
 The interview process includes:
 1. Setup phase where you provide your personal information
 2. Interactive interview with 5 question-answer exchanges
 3. Detailed feedback with an overall score and improvement suggestions
+
+## Screenshots
+
+### Setup Interface
+![Setup Page](screenshots/setup.png)
+*Configure your interview by entering your information, selecting experience level, position, and target company*
+
+### Interview Chat
+![Interview Chat](screenshots/interview.png)
+*Interactive AI-powered interview with real-time responses from GPT-4*
+
+### Performance Feedback
+![Feedback](screenshots/feedback.png)
+*Receive detailed performance analysis with a numerical score (1-10) and actionable suggestions*
 
 ## Installation
 
