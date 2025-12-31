@@ -12,15 +12,15 @@ An interactive AI-powered interview simulator built with Streamlit and OpenAI's 
 <div align="center">
 
 ### Setup Interface
-![Setup Page](screenshots/setup.png)
+![Setup Page](files/setup.png)
 *Customize your interview with personal information, experience level, desired position, and target company*
 
 ### Interactive Interview
-![Interview Chat](screenshots/interview.png)
+![Interview Chat](files/interview.png)
 *Real-time AI-powered conversation with GPT-4 acting as an HR executive*
 
 ### Performance Feedback
-![Feedback Results](screenshots/feedback.png)
+![Feedback Results](files/feedback.png)
 *Receive a detailed performance score (1-10) with comprehensive feedback and suggestions*
 
 </div>
