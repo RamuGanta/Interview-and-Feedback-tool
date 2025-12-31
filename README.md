@@ -1,5 +1,10 @@
 # AI Interview & Feedback Tool 💬
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991.svg)](https://openai.com/)
+
 An interactive AI-powered interview simulator built with Streamlit and OpenAI's GPT-4. This application conducts mock interviews for various data and analytics positions and provides detailed performance feedback.
 
 ## Features
@@ -29,8 +34,8 @@ The interview process includes:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ai-interview-feedback-tool.git
-cd ai-interview-feedback-tool
+git clone https://github.com/RamuGanta/Interview-and-Feedback-tool.git
+cd Interview-and-Feedback-tool
 ```
 
 2. Install required packages:
@@ -165,7 +170,13 @@ For issues, questions, or suggestions, please open an issue on GitHub.
 
 ## Author
 
-Ramu Ganta
+**Ramu Ganta**
+
+📧 Feel free to reach out for questions or collaboration opportunities!
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-RamuGanta-181717?style=flat&logo=github)](https://github.com/RamuGanta)
 
 ---
 
