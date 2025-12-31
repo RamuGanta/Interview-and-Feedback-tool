@@ -4,8 +4,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991.svg)](https://openai.com/)
+[![Deployed on Streamlit](https://img.shields.io/badge/Deployed-Streamlit%20Cloud-FF4B4B.svg)](https://streamlit.io/cloud)
 
 An interactive AI-powered interview simulator built with Streamlit and OpenAI's GPT-4. This application conducts mock interviews for various data and analytics positions and provides detailed performance feedback.
+
+> **Note:** This application has been successfully deployed on Streamlit Cloud and is production-ready.
 
 ## 📸 Screenshots
 
